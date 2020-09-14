@@ -36,9 +36,9 @@
 https://ovenapp.io/view/1mcbsPtgJYhj2PLbjGQT6zQY19CNXMDP/KzEmI
 
 - 채팅화면
-
-![picture1](./pictures/picture1.PNG)
+  ![picture1](./pictures/picture1.PNG)
 
 - 경험 정리
 
 ![picture2](./pictures/picture2.PNG)
+=======

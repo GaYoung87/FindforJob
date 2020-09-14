@@ -29,7 +29,7 @@
 
 ### ERD
 
-![erd](./readme-asset/db.png)
+![picture0](./pictures/picture0.PNG)
 
 ### 화면 예시
 
@@ -37,8 +37,8 @@ https://ovenapp.io/view/1mcbsPtgJYhj2PLbjGQT6zQY19CNXMDP/KzEmI
 
 - 채팅화면
 
-![채팅](./readme-asset/chat.png)
+![picture1](./pictures/picture1.PNG)
 
 - 경험 정리
 
-![키워드](./readme-asset/exp.png)
+![picture2](./pictures/picture2.PNG)

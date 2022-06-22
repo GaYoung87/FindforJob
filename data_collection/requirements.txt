@@ -14,7 +14,7 @@ konlpy==0.5.2
 matplotlib==3.0.2
 mysql-connector-python==8.0.19
 notebook==6.0.2
-numpy==1.17.3
+numpy==1.22.0
 oauthlib==3.1.0
 packaging==20.3
 pandas==0.25.3
